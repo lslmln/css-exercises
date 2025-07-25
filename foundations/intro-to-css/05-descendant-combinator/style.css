@@ -1,0 +1,17 @@
+/* div p {
+    background-color: hsl(60, 94%, 80%);
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* Can chain type selectors this way too */
+
+.container .text {
+    background-color: hsl(60, 94%, 80%);
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Needs a space!! for AND. comma is for OR. Same for type selectors*/
