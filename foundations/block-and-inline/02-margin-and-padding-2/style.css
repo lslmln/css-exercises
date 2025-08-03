@@ -42,3 +42,5 @@ button {
   display: block;
   margin: auto;
 }
+
+/* Previously I tried to align everything within button-container at the same time cos that makes sense. But sometimes I must do the less efficient thing to learn within what I know. */
